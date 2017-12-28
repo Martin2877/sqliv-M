@@ -1,0 +1,2 @@
+('http://localhost/gd/sqli/verify.php?lesson=1&username=root&password=root', 'MySQL')
+('http://localhost/gd/sqli/verify.php?lesson=1&username=root&password=root', 'MySQL')

@@ -13,7 +13,7 @@ def init():
 
 def scan(urls):
     """scan multiple websites with multi processing"""
-
+    print urls
     vulnerables = []
     results = {}  # store scanned results
 
@@ -42,7 +42,7 @@ def scan(urls):
     for url, result in results.items():
         if result[0] == True:
             vulnerables.append((url, result[1]))
-
+    print vulnerables
     return vulnerables
 
 
