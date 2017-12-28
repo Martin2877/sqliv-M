@@ -1,5 +1,6 @@
-SQLiv
+SQLiv-M
 ===
+Modified by Muhe
 
 ### Massive SQL injection scanner  
 **Features**  
